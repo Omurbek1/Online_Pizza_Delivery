@@ -39,7 +39,7 @@
             </div>
             <div class="col-md-8 my-4">
                 <h3>' . $pizzaName . '</h3>
-                <h5 style="color: #ff0000">Rs. '.$pizzaPrice. '/-</h5>
+                <h5 style="color: #ff0000"> '.$pizzaPrice. ' KGZ</h5>
                 <p class="mb-0">' .$pizzaDesc .'</p>';
 
                 if($loggedin){

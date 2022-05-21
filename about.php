@@ -198,12 +198,12 @@
               <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Darshan Parmar</h4>
+                  <h4>Omurbek Mamytbekov</h4>
                 </div>
                 <div class="social">
-                  <a href="https://twitter.com/darshankparmar" target="_blank"><i class="icofont-twitter"></i></a>
-                  <a href="https://github.com/darshankparmar" target="_blank"><i class="fab fa-github"></i></a>
-                  <a href="https://www.linkedin.com/in/darshankparmar/" target="_blank"><i class="icofont-linkedin" target="_blank"></i></a>
+                  <a href="https://twitter.com/omurbek1" target="_blank"><i class="icofont-twitter"></i></a>
+                  <a href="https://github.com/Omurbek1/" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="https://www.linkedin.com/in/omurbek-mamytbekov-b170421a8/" target="_blank"><i class="icofont-linkedin" target="_blank"></i></a>
                 </div>
               </div>
             </div>
@@ -218,7 +218,7 @@
                 </div>
                 <div class="social">
                   <a href=""><i class="icofont-twitter" target="_blank"></i></a>
-                  <a href="https://github.com/7Har" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="https://github.com/" target="_blank"><i class="fab fa-github"></i></a>
                   <a href=""><i class="icofont-linkedin" target="_blank"></i></a>
                 </div>
               </div>
@@ -234,7 +234,7 @@
                 </div>
                 <div class="social">
                   <a href=""><i class="icofont-twitter" target="_blank"></i></a>
-                  <a href="https://github.com/Blparmar007" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="https://github.com/" target="_blank"><i class="fab fa-github"></i></a>
                   <a href=""><i class="icofont-linkedin" target="_blank"></i></a>
                 </div>
               </div>
