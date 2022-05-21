@@ -59,7 +59,7 @@
             <div class="carousel-background"><img src="assets/img/slide/slide-3.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown mb-0">Parmar Darshan Kiritbhai</h2><p>CE084 <a href="https://github.com/darshankparmar" target="_blank">@darshankparmar</a></p>
+                <h2 class="animate__animated animate__fadeInDown mb-0">Omurbek Mamytbekov</h2><p>CE084 <a href="https://github.com/darshankparmar" target="_blank">omurbekmamytbekov545@gmail.com</a></p>
                 <a href="index.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Get Started</a>
               </div>
             </div>
