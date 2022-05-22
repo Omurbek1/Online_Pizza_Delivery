@@ -21,6 +21,8 @@ Import opd.sql file(given inside the zip package in SQL file folder)
 For User Panel: http://localhost/OnlinePizzaDelivery/
 
 For admin panel: http://localhost/OnlinePizzaDelivery/admin/
+
 Credential for Admin panel :
+
 username: admin
 password: admin
