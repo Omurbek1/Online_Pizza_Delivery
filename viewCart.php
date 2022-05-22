@@ -128,7 +128,7 @@
                     <div class="pt-4">
                         <a class="dark-grey-text d-flex justify-content-between" style="text-decoration: none; color: #050607;" data-toggle="collapse" href="#collapseExample"
                             aria-expanded="false" aria-controls="collapseExample">
-                            Add a discount code (optional)
+                            Add a discount code (optionals)
                             <span><i class="fas fa-chevron-down pt-1"></i></span>
                         </a>
                         <div class="collapse" id="collapseExample">
