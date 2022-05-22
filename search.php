@@ -103,7 +103,7 @@
                     <div class="container">
                         <h1>Your search - <em>"' .$_GET['search']. '"</em> - No Result Found.</h1>
                         <p class="lead"> Suggestions: <ul>
-                            <li>Make sure that all words are spelled correctly.</li>
+                            <li>Make sure that all words are spelled correctly...</li>
                             <li>Try different keywords.</li>
                             <li>Try more general keywords.</li></ul>
                         </p>
