@@ -230,7 +230,7 @@
                         <h1>Oops!</h1>
                     </div>
                     <h2>404 - Page not found--</h2>
-                    <a href="index.php">Go To Homepage</a>
+                    <a href="index.php">Go To Homepage!</a>
                 </div>
             </div>';
         }

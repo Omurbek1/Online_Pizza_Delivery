@@ -92,7 +92,7 @@
                 echo '<div class="jumbotron jumbotron-fluid">
                     <div class="container">
                         <p class="display-4">Sorry In this category No items available.</p>
-                        <p class="lead"> We will update Soon.</p>
+                        <p class="lead"> We will update Soon...</p>
                     </div>
                 </div> ';
             }
