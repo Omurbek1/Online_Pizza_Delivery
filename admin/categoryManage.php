@@ -2,6 +2,7 @@
     <div class="col-lg-12">
         <div class="row">
             <!-- FORM Panel -->
+            <!-- Форма панела -->
             <div class="col-md-4">
                 <form action="partials/_categoryManage.php" method="post" enctype="multipart/form-data">
                     <div class="card">
