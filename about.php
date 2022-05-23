@@ -128,7 +128,7 @@
               </div>
 
               <div class="progress">
-                <span class="skill">1 star <i class="val">0%</i></span>
+                <span class="skill">2 star <i class="val">0%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
