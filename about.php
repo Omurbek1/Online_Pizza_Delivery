@@ -184,6 +184,7 @@
     </section><!-- End Counts Section -->
 
     <!-- ======= Our Team Section ======= -->
+    <!-- Команда боюнча маалымат -->
     <section id="team" class="team">
       <div class="container">
 
