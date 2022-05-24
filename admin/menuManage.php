@@ -67,7 +67,7 @@
 									<th class="text-center" style="width:7%;">Cat. Id</th>
 									<th class="text-center">Img</th>
 									<th class="text-center" style="width:58%;">Item Detail</th>
-									<th class="text-center" style="width:18%;">Action</th>
+									<th class="text-center" style="width:18%;">Actions</th>
 								</tr>
 							</thead>
 							<tbody>
