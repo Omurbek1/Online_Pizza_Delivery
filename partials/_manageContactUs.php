@@ -10,7 +10,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
     $orderId = $_POST["orderId"];
     $message = $_POST["message"];
     $password = $_POST["password"];
-
     // Check user password is match or not
     $passSql = "SELECT * FROM users WHERE id='$userId'"; 
     $passResult = mysqli_query($conn, $passSql);

@@ -47,7 +47,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
         $zipcode = $_POST["zipcode"];
         $password = $_POST["password"];
         $address = $address1.", ".$address2;
-        
         $passSql = "SELECT * FROM users WHERE id='$userId'"; 
         $passResult = mysqli_query($conn, $passSql);
         $passRow=mysqli_fetch_assoc($passResult);
