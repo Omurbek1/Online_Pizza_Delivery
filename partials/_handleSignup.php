@@ -33,6 +33,5 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
           header("Location: /OnlinePizzaDelivery/index.php?signupsuccess=false&error=$showError");
       }
     }
-}
-    
+} 
 ?>
