@@ -1,7 +1,6 @@
 <?php
 include '_dbconnect.php';
 session_start();
-
 if($_SERVER["REQUEST_METHOD"] == "POST") {
     $userId = $_SESSION['userId'];
     if(isset($_POST['addToCart'])) {
@@ -88,6 +87,5 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
         $updatesql = "UPDATE `viewcart` SET `itemQuantity`='$qty' WHERE `pizzaId`='$pizzaId' AND `userId`='$userId'";
         $updateresult = mysqli_query($conn, $updatesql);
     }
-    
 }
 ?>
