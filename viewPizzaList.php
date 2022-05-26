@@ -97,8 +97,6 @@
             ?>
         </div>
     </div>
-
-
     <?php require 'partials/_footer.php' ?>
     
     <!-- Optional JavaScript -->
