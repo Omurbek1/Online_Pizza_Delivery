@@ -1,5 +1,4 @@
 <?php
-
 session_start();
 echo "Logging you out. Please wait....";
 unset($_SESSION["loggedin"]);
