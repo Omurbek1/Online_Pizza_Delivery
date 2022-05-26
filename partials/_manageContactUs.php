@@ -4,7 +4,7 @@ session_start();
 
 if($_SERVER["REQUEST_METHOD"] == "POST") {
     $userId = $_SESSION['userId'];
-    
+    //ЫФ 
     $email = $_POST["email"];
     $phone = $_POST["phone"];
     $orderId = $_POST["orderId"];
