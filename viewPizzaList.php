@@ -29,7 +29,6 @@
             <span>All Category</span>
         </a>
     </div>
-
     <?php
         $id = $_GET['catid'];
         $sql = "SELECT * FROM `categories` WHERE categorieId = $id";
@@ -39,7 +38,6 @@
             $catdesc = $row['categorieDesc'];
         }
     ?>
-  
     <!-- Pizza container starts here -->
     <div class="container my-3" id="cont">
         <div class="col-lg-4 text-center bg-light my-3" style="margin:auto;border-top: 2px groove black;border-bottom: 2px groove black;">     
