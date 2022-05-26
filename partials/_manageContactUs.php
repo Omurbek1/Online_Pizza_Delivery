@@ -14,7 +14,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
     $passSql = "SELECT * FROM users WHERE id='$userId'"; 
     $passResult = mysqli_query($conn, $passSql);
     $passRow=mysqli_fetch_assoc($passResult);
-    
     if (password_verify($password, $passRow['password'])){
         $sql = "INSERT INTO `contact` (`userId`, `email`, `phoneNo`, `orderId`, `message`, `time`) VALUES ('$userId', '$email', '$phone', '$orderId', '$message', current_timestamp())";
         $result = mysqli_query($conn, $sql);
