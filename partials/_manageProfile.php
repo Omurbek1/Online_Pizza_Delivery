@@ -3,7 +3,6 @@
     session_start();
     $userId = $_SESSION['userId'];
     
-    
     if(isset($_POST["updateProfilePic"])){
         $check = getimagesize($_FILES["image"]["tmp_name"]);
         if($check !== false) {
