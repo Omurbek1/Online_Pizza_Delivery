@@ -122,7 +122,6 @@
         opacity: 0;
         }
     </style>
-
 </head>
 <body>
     <?php include 'partials/_dbconnect.php';?>
