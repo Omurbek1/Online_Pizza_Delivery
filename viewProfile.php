@@ -165,7 +165,6 @@
                         </div>
                         <button type="submit" name="updateProfilePic" class="btn btn-primary" style="margin-top: -20px;font-size: 15px;padding: 3px 8px;">Update</button>
                     </form>
-                    
                     <ul class="meta list list-unstyled" style="text-align:center;">
                         <li class="username my-2"><a href="viewProfile.php">@<?php echo $username ?></a></li>
                         <li class="name"><?php echo $firstName." ".$lastName; ?>
