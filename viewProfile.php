@@ -148,7 +148,6 @@
             else {
                 $userType = "Admin";
             }
-
         ?>
         <div class="row">
             <div class="jumbotron p-3 mb-3" style="display: flex;justify-content: center;width: 28%;border-radius: 50px;margin: 0 auto;">
