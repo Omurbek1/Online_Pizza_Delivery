@@ -130,7 +130,6 @@
     <?php
         if($loggedin) {
     ?>
-    
     <div class="container">
         <?php 
             $sql = "SELECT * FROM users WHERE id='$userId'"; 
