@@ -27,7 +27,6 @@
             </script>';
         }
     }
-
     if(isset($_POST["updateProfileDetail"])){
         $firstName = $_POST["firstName"];
         $lastName = $_POST["lastName"];
