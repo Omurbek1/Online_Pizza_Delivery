@@ -12,7 +12,6 @@ else{
 $sql = "SELECT * FROM `sitedetail`";
 $result = mysqli_query($conn, $sql);
 $row = mysqli_fetch_assoc($result);
-
 $systemName = $row['systemName'];
 echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand" href="index.php">'.$systemName.'</a>
