@@ -5,7 +5,6 @@
         $orderid = $itemModalRow['orderId'];
     
 ?>
-
 <!-- Modal -->
 <div class="modal fade" id="orderItem<?php echo $orderid; ?>" tabindex="-1" role="dialog" aria-labelledby="orderItem<?php echo $orderid; ?>" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
@@ -17,7 +16,6 @@
                 </button>
             </div>
             <div class="modal-body">
-            
                 <div class="container">
                     <div class="row">
                         <!-- Shopping cart table -->
