@@ -20,7 +20,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
                 </script>";
         }
     }
-    
     if(isset($_POST['updateDeliveryDetails'])) {
         $trackId = $_POST['trackId'];
         $orderId = $_POST['orderId'];
